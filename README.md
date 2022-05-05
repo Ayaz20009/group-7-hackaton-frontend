@@ -1,7 +1,5 @@
 # Realm Web and GraphQL Tutorial
 
-Follow along at https://www.mongodb.com/docs/realm/tutorial/web-graphql/
-
 ## Troubleshooting
 
 - Be sure to **check the logs in Realm UI** for more information as well as the console in your app.
