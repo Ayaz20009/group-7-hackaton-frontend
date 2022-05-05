@@ -3,7 +3,7 @@
 ## Troubleshooting
 
 - Be sure to **check the logs in Realm UI** for more information as well as the console in your app.
-- Be sure to **deploy your changes** in the Realm UI.
+- Be sure to **deploy your changes** in the Realm UI. 
 
 ## Issues & Pull Requests
 
